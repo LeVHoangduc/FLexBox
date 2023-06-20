@@ -1,0 +1,21 @@
+.flex-col {
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.flex-col-reverse {
+  flex-direction: column-reverse;
+  flex-wrap: wrap;
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+}
+
+.flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
